@@ -5,7 +5,7 @@ permalink: /privacy-policy/
 ---
 
 # **Privacy Policy for E-Com App**
-_Last updated: {{ add today’s date }}_
+Last updated: {{ 17.11.2025 }}
 
 ## **1. Introduction**
 E-Com App (“we”, “us”, “our”) is operated by **E-Com Group**.  
